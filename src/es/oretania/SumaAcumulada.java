@@ -19,4 +19,4 @@ public class SumaAcumulada {
 		}
 		return suma;
 	}
-}
+} // No he encontrado el error
